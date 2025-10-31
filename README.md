@@ -1,4 +1,8 @@
-## Hi there 👋
+👋 Hi, I’m Henry Wang  
+🎮 Gameplay Engineering student building immersive and interactive game experiences  
+🎓 Master of Entertainment Technology @ Carnegie Mellon University (ETC)  
+🧠 Interests: Gameplay programming, AI behavior, networking, and XR interaction  
+📬 Contact: wanghl0615@gmail.com | helinwan@andrew.cmu.edu
 
 <!--
 **Wan9hLin/Wan9hLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
